@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of his Excellency the Lord General Fairfax, and his Generall Councell of Officers. Concerning Major Generall Brown, sheriffe of the honourable City of London, and the time of their bringing him to tryall; with his excellencies declaration to the citizens. Also, the dangerous articles of impeachement against the King; and the charge of the Army, for the bringing of his Majesty to a speedy tryall, justice, and judgment. With a remonstrance from the navie, touching th army, and the sea-mens resolution thereupon.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91687</idno>
+            <idno type="STC">Wing R1142</idno>
+            <idno type="STC">Thomason E476_19</idno>
+            <idno type="STC">ESTC R205485</idno>
+            <idno type="EEBO-CITATION">99864852</idno>
+            <idno type="PROQUEST">99864852</idno>
+            <idno type="VID">162503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of his Excellency the Lord General Fairfax, and his Generall Councell of Officers. Concerning Major Generall Brown, sheriffe of the honourable City of London, and the time of their bringing him to tryall; with his excellencies declaration to the citizens. Also, the dangerous articles of impeachement against the King; and the charge of the Army, for the bringing of his Majesty to a speedy tryall, justice, and judgment. With a remonstrance from the navie, touching th army, and the sea-mens resolution thereupon.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for C.VV. neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Richard, --  Sir, 1602?-1669.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162503:1" rendition="simple:additions"/>
+            <p>THE RESOLUTION Of his Excellency the Lord General FAIRFAX, AND <hi>His Generall Councell of Officers.</hi>
+            </p>
+            <p>CONCERNING Major Generall <hi>Brown,</hi> Sheriffe of the Honourable City of <hi>London,</hi> and the time of their bringing him to tryall; With his Excellencies Declaration to the CITIZENS.</p>
+            <p>ALSO, The dangerous Articles of Impeachment againſt the <hi>King;</hi> and the Charge of the <hi>Army,</hi> for the bringing of his Majeſty to a ſpeedy Tryall, Juſtice, and Judgment.</p>
+            <p>WITH A Remonſtrance from the Navie, touching the Army, and the Sea-mens Reſolution thereupon.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>C. VV.</hi> neer the Royall Exchange, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:162503:2"/>
+               <pb n="1" facs="tcp:162503:2"/>
+               <head>THE ARTICLES Of Impeachment againſt the KING And the Charge of the Army, for the ſpeedy bringing his Majeſty to tryall, juſtice, and judgment.</head>
+               <p n="1">I.</p>
+               <p>THhat the preſent King <hi>Charles,</hi> when he was Prince of <hi>Wales,</hi> did maintain coreſpondency with the then Pope of <hi>Rome;</hi> promiſing, that he would employ himſelf for the time to come, to have but one Religion, <hi>viz.</hi> the Roman Catholique, and that he was reſolved to ſuffer manner of diſcommodities, even to the hazarding of his Eſtate and life, for a thing ſo pleaſing unto God, as the ad<g ref="char:EOLhyphen"/>vancement of the Romiſh Religion.</p>
+               <p n="2">2 That the ſaid King hath taken two ſolemn Oaths upon
+<pb n="2" facs="tcp:162503:3"/>both his Treaties of Mariage with <hi>Spain</hi> and <hi>France,</hi> to pro<g ref="char:EOLhyphen"/>tect and maintain to the utmoſt throughout his Dominions, the Roman Catholique Church and Religion, and to ſuſ<g ref="char:EOLhyphen"/>pend and abrog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te all Laws againſt them, and is thereby deeply ingaged by vertue of theſe Oaths, to ſide with the Roman Catholique Subjects, both in <hi>England, Ireland,</hi> and <hi>Scotland,</hi> and arm them againſt his Proteſtant Subjects and Parliaments in all the three Kingdoms, of purpoſe to make good theſe his Oaths and Articles.</p>
+               <p n="3">3 That the ſaid preſent King <hi>Charles,</hi> ſince his comming to the Crown, hath raiſed a moſt bloudy and unnaturall war a<g ref="char:EOLunhyphen"/>gainſt the Proteſtant Cauſe and party in his Dominions, in which he hath hazarded both his Eſtate, Life, and Realmes, for the reducing all his Subjects to one Religion, <hi>viz.</hi> the Roman Catholique.</p>
+               <p n="4">4 That the ſaid King did permit the Papiſts, Prieſts, and Jeſuits, during the Scottiſh troubles, to call a Parliament and Generall Councell of State among themſelves, even in <hi>London,</hi> wherein the Popes own Nuntio ſate Preſident, in which parliament, the chief papiſts out of all parts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales</hi> aſſembled, made ſeveral Laws and Ordinan<g ref="char:EOLhyphen"/>ces for impoſing taxes, and raiſing monies upon all Roman Catholiques for maintenance of the Scottiſh wars, which were ſeconded with the Queens own letters and inſtructions to the Catholique party.</p>
+               <p n="5">5 That the ſaid King did admit <hi>Can</hi> the Popes Legate, and that under the very name, notion, and authority of the peo<g ref="char:EOLhyphen"/>ples Legate, into familiar acceſſe to, and conference with him, by all arts, policies, and arguments, to pervert and draw him with his three Kingdoms, to a new ſubjection to the See of <hi>Rome.</hi>
+               </p>
+               <p n="6">6 That the King condeſcended to articles of pacification
+<pb n="3" facs="tcp:162503:3"/>with the rebels of <hi>Ireland</hi> contrary to an act of parl. where<g ref="char:EOLhyphen"/>in the ſaid wicked rebels are declared his Majeſties good ſubjects.</p>
+               <p>And laſtly that the ſaid King did ſend for many thouſands of the ſaid rebels into <hi>England,</hi> to maſſacre the proteſtant Engliſh here, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Theſe Articles are collected out of Romes Master-piece, and will be more fully aſſerted and maintained from the ſeve<g ref="char:EOLhyphen"/>rall Writings and labours of Mr. <hi>Wil. Pryn,</hi> Eſquire. The Charge of the Army.</head>
+               <p>That his Majeſty hath iſſued out divers proclamations under the great Seal, and given Commiſſions to Engliſh &amp; Iriſh papiſts, for the maſſacring of his beſt and truſtieſt ſub<g ref="char:EOLunhyphen"/>jects, and that he hath been the moſt capital and grand Au<g ref="char:EOLhyphen"/>thor of all the bloud which hath bin ſpilt in <hi>England,</hi> and therefore deſire, that he may be ſpeedily brought to juſtice judgment and tryal, for the treaſon, bloud, and miſchiefe he is therein guilty of.</p>
+            </div>
+            <div type="declaration">
+               <head>A Declaration from his Excellency the Lord Gen. <hi>Fairfax</hi> concerning the Excize, and the Citizens of London.</head>
+               <p>VVHereas upon the 8. of this inſtant moneth, a party of Horſe and Foot came to the Excize Office in Broadſtreet, which perhaps will occaſion ſome to think the Army came thither with a purpoſe to interrupt any more levying of the Excive; Theſe are to declare, and aſſure them, that the ſaid Forces came thither by a miſtake, and that there was not any intentions to give interruption unto the due levying of the Excize, or to ſeize upon any money in Caſh; and that you may proceed as formerly, ac<g ref="char:EOLhyphen"/>cording to thoſe Ordinances, and Orders of Parliament, which you have received concerning the ſame.</p>
+               <closer>
+                  <signed>
+                     <hi>Subſcribed,</hi> T. FAIRFAX.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:162503:4"/>
+               <head>The Lord Admirals Letter to the Parliament.</head>
+               <p>
+                  <hi>VVHereas the Honorable Houſes of Parliament have bin pleaſed to intrust me with the charge of the Fleet, I ſhall therefore indeavour to improve that Authority committed to me, with a faithfull and inviolable reſpect unto my duty.</hi>
+               </p>
+               <p>
+                  <hi>For, when I firſt undertook this great charge, I was ſenſible how much the Cauſe, Truth, and Glory of God, the ſettlement of my Countries peace, and the preventing of the bloudy and deſperate deſigns of the Enemies thereof, depended upon the management of this expedition, and how much I was obliged in Conſcience and Honour to omit nothing that might have a tendency to thoſe ends. That obligation I have (according to my beſt reaſon and judgment) fathfully diſcharged, and by the bleſſing of Heaven have received this fruit (notwithstanding the many obſtructions and difficulties that intervened) that the honour of the Parl. by Sea is cleared, the Fleet committed to my charge preſerved in a condition of honour and ſafety, the affections of the Seamen ſetled, the deſign of thoſe wicked Revolters, that perſidiouſly betrayed ſo conſiderable a part of the Kingdomes Navy broken, and ſuch as aſsociated with them either rende<g ref="char:EOLhyphen"/>red or reduced.</hi>
+               </p>
+               <p>
+                  <hi>And as to the aſperſion and pretended reſolution of my joy<g ref="char:EOLhyphen"/>ning with the Prince, in caſe an agreement be not concluded of between the King and parliament, I do profeſse in the preſence of God, who knowes my heart and wayes, that it never entred into my thoughts, and that my ſoul abhors it as inconſistent inconſistent with my Duty prejudiciall to the Parliament, de<g ref="char:EOLhyphen"/>ſtructive to the Kingdoms peace, and unworthy of a free borne Engliſh man.</hi>
+               </p>
+               <p>
+                  <hi>And therefore, as I have hitherto been faithfull to the Kingdom,
+<pb n="5" facs="tcp:162503:4"/>and to the Parliament, where I have the honour to ſit as a Peer, ſo I do and ſhall ſcorn to ſacrifice my conſcience, &amp; thoſe ublike and dear concernments of my Countrey, wherein I have a portion.</hi>
+               </p>
+               <p>
+                  <hi>And while I have a heart, and a hand, I ſhall not faile (by Gods aſſistance) to have them on all occaſions, lifted up, for the ſervice of the parliament, and common intereſts of</hi> England, <hi>with my uttermoſt integrity, and to my higheſt hazard.</hi>
+               </p>
+               <closer>
+                  <signed>Subſcribed, WARWICK.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Decemb.</hi> 13. Letters further from the Navy ſay, That his Excellency the Lord Admirall, upon receipt of the intelli<g ref="char:EOLhyphen"/>gence, that the Army had ſeized on divers members of par<g ref="char:EOLhyphen"/>liament, and entred the City of <hi>London,</hi> his Lordſhip de<g ref="char:EOLhyphen"/>clared, <hi>That he wiſhed well to the peace of this famous Metro<g ref="char:EOLhyphen"/>polis, and deſired that the principles whereon the Army have fixed their reſolutions, may prove a ſoveraign Cordiall, to heal the diſeaſed and corrvpted</hi> Ulcers <hi>of this bleeding Kingdome, and that their preſent Engagement may conduce to the glory of God, the liberty and freedom of the people, and the peace and tranquility of the Common weale of England, throughout all future Ages and Generations.</hi>
+               </p>
+               <p>Major Gen. <hi>Brown,</hi> and divers other Members now under reſtraint: Whereupon the Houſe ordered that a Commit<g ref="char:EOLhyphen"/>tee ſhould be appointed to treat with his Excellency, con<g ref="char:EOLhyphen"/>cerning the ſaid Members.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Sir, Since the coming in of the revolted ſhips, moſt of the Mariners have entred into a new Proteſtation and En<g ref="char:EOLhyphen"/>gagemen; which is, That they will ſacrifice all that is neare and dear unto them, for preſervation of the Laws, Liberties, and Freedoms, of their Native and Fellow Commoners of this Nation; and that they will ſacrifice both lives and for<g ref="char:EOLhyphen"/>tunes, with the Army, under the Authority and Conduct of
+<pb n="6" facs="tcp:162503:5"/>his Excellency the Lord Gen. <hi>Fairfax,</hi> for the accompli<g ref="char:EOLhyphen"/>ſhing thoſe good ends, cited in their late Remonſtrance, that ſo much conduceth to the peace and welfare of this blee<g ref="char:EOLhyphen"/>ding Nation; and that it may take deepe impreſſion in the hearts of all men, who profeſſe themſelves lovers of Righ<g ref="char:EOLhyphen"/>teouſneſſe, and Practitioners in the Art of Navigation, they unanimouſly reſolved to communicate the ſame, to all Ma<g ref="char:EOLhyphen"/>riners whatſoever, upon the River of Thames, or elſe where; to the end, that none may appear oppoſite, or diſſenting, to the faciliating of ſo great a Work.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Aboard the St. George</hi> 
+                           <date>11. <hi>Decem.</hi> 1648.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>His Excellency, the Lord <hi>Fairfax,</hi> and his general Coun<g ref="char:EOLhyphen"/>cell of Officers, have had ſome diſputatien and debate, touch<g ref="char:EOLhyphen"/>ing the Charge againſt Major Gen. <hi>Brown,</hi> and ſome other of the impeached members, and are reſolved to bring them to a ſpeedy tryall, which (in all probability will be upon next Munday. M G. <hi>Maſsey,</hi> and Sir <hi>I Clotworthy</hi> are remo<g ref="char:EOLhyphen"/>ved from the other impeached members, to St. <hi>Iamſes,</hi> to Sheriff <hi>Brown,</hi> where they are to be kept during the pleaſure of his Excellency.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
